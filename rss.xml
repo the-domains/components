@@ -3,10 +3,16 @@
     <channel>
         <title><![CDATA[Components]]></title>
         <description><![CDATA[Components]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/components/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Sep 2015 19:37:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Sep 2015 19:07:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/components/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2605ea82-c21b-486b-b60d-670eb7256c98.png">]]></description>
+            <guid isPermaLink="false">52e75cca-24fb-4eb1-beb2-c85106b9d483</guid>
+            <pubDate>Sun, 20 Sep 2015 19:07:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wanderers - a short film by Erik Wernquist]]></title>
             <description><![CDATA[<article><h1>Wanderers - a short film by Erik Wernquist</h1><p>For more information and stills gallery, please turn to: www.erikwernquist.com/wanderers For youtube version, please turn here: https://www.youtube.com/watch?v=YH3c1QZzRK4 ----- UPDATE: For anyone interested I have made a clip with a few discarded scenes from this film, which can be seen here: https://vimeo.com/132183031 ----- Wanderers is a vision of humanity's expansion into the Solar System, based on scientific ideas and concepts of what our future in space might look like, if it ever happens.</p><img src="http://i.vimeocdn.com/video/498302788_1280.jpg"></article>]]></description>
