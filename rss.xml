@@ -4,8 +4,15 @@
         <description><![CDATA[Components]]></description>
         <link>https://thegrid.ai/components/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 00:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 00:41:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/components/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4741bf88-da16-4690-ba4f-ddb68e6c4749.png">]]></description>
+            <link>https://thegrid.ai/components/ffd10d38-3085-4e9c-bf8c-32b96590cc4f/index.html</link>
+            <guid isPermaLink="false">ffd10d38-3085-4e9c-bf8c-32b96590cc4f</guid>
+            <pubDate>Thu, 22 Oct 2015 00:40:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/260cb313-e2a7-42bb-aa1c-b0290105be67.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/components/2689cb3a-bd6c-48e4-ab98-61fc1065a5f8/index.html</link>
             <guid isPermaLink="false">2689cb3a-bd6c-48e4-ab98-61fc1065a5f8</guid>
             <pubDate>Tue, 20 Oct 2015 22:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e29738bc-4166-48fb-9b7b-8e7621d622cd.png">]]></description>
-            <link>https://thegrid.ai/components/1eea8611-ae5c-4e6a-a9e3-64f39ffa4601/index.html</link>
-            <guid isPermaLink="false">1eea8611-ae5c-4e6a-a9e3-64f39ffa4601</guid>
-            <pubDate>Thu, 15 Oct 2015 22:12:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
