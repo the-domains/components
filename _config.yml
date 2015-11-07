@@ -1,6 +1,7 @@
 name: Components
 favicon: null
 layout_spectrum: 0.23826
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
