@@ -1,7 +1,7 @@
 ---
 title: Delete Post Test
-dateModified: '2015-11-19T11:19:52.218Z'
-datePublished: '2015-11-19T11:19:53.364Z'
+dateModified: '2015-11-19T11:44:32.286Z'
+datePublished: '2015-11-19T11:44:32.966Z'
 sourcePath: _posts/2015-11-14-delete-post-test.md
 published: true
 inFeed: true
@@ -12,4 +12,4 @@ _type: MediaObject
 ---
 # Delete Post Test
 
-This should become a description
+This probably will become a description
