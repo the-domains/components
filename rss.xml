@@ -4,7 +4,7 @@
         <description><![CDATA[Components]]></description>
         <link>https://thegrid.ai/components/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 01:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 15:07:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/components/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Building SVG Icons with React]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Thu, 19 Nov 2015 01:10:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Post with a Title]]></title>
-            <description><![CDATA[<article><h1>Post with a Title</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f61a6bd8-246c-4c16-8620-bddcb0a18dd7.png"></article>]]></description>
+            <title><![CDATA[New Cover Editor Title]]></title>
+            <description><![CDATA[<article><h1>New Cover Editor Title</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f61a6bd8-246c-4c16-8620-bddcb0a18dd7.png"></article>]]></description>
             <link>https://thegrid.ai/components/post-with-a-title/index.html</link>
             <guid isPermaLink="false">7f0a1f2c-07f8-4b54-94c9-decbdec73c7e</guid>
-            <pubDate>Wed, 18 Nov 2015 23:13:42 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2015 15:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
