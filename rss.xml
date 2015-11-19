@@ -4,8 +4,15 @@
         <description><![CDATA[Components]]></description>
         <link>https://thegrid.ai/components/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 23:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 01:09:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/components/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Building SVG Icons with React]]></title>
+            <description><![CDATA[<article><h1>Building SVG Icons with React</h1><p>While traditional graphics applications like Adobe Illustrator work well for certain tasks, they fall short when used to create pixel perfect, mathematically-derived graphics. Anyone who's attempted to create data visualizations with such software might have encountered these limitations.</p><img src="http://jxnblk.s3.amazonaws.com/assets/images/cog-sketch-bw.jpg"></article>]]></description>
+            <link>http://jxnblk.com/react-icons/nope</link>
+            <guid isPermaLink="false">c2531480-3dee-4483-afbe-b24a18b2a9ef</guid>
+            <pubDate>Thu, 19 Nov 2015 01:08:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Post with a Title]]></title>
             <description><![CDATA[<article><h1>Post with a Title</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f61a6bd8-246c-4c16-8620-bddcb0a18dd7.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/components/f1f018cc-fcef-4f14-a07f-79f09abc3b70/index.html</link>
             <guid isPermaLink="false">f1f018cc-fcef-4f14-a07f-79f09abc3b70</guid>
             <pubDate>Thu, 22 Oct 2015 00:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4741bf88-da16-4690-ba4f-ddb68e6c4749.png">]]></description>
-            <link>https://thegrid.ai/components/ffd10d38-3085-4e9c-bf8c-32b96590cc4f/index.html</link>
-            <guid isPermaLink="false">ffd10d38-3085-4e9c-bf8c-32b96590cc4f</guid>
-            <pubDate>Thu, 22 Oct 2015 00:40:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
