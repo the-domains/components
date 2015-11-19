@@ -4,7 +4,7 @@
         <description><![CDATA[Components]]></description>
         <link>https://thegrid.ai/components/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 01:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 01:20:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/components/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Building SVG Icons with React]]></title>
@@ -71,10 +71,10 @@
         </item>
         <item>
             <title><![CDATA[Adding a Title]]></title>
-            <description><![CDATA[<article><h1>Adding a Title</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e51b7ea-edea-46bc-ad0b-436b7481a926.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Adding a Title</h1><p>Adding a description. Content editable is aight</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e51b7ea-edea-46bc-ad0b-436b7481a926.png"></article>]]></description>
             <link>https://thegrid.ai/components/f1f018cc-fcef-4f14-a07f-79f09abc3b70/index.html</link>
             <guid isPermaLink="false">f1f018cc-fcef-4f14-a07f-79f09abc3b70</guid>
-            <pubDate>Thu, 19 Nov 2015 01:19:20 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2015 01:19:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
