@@ -4,8 +4,15 @@
         <description><![CDATA[Components]]></description>
         <link>https://thegrid.ai/components/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 15:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 18:35:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/components/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello.]]></title>
+            <description><![CDATA[<article><h1>Hello.</h1><p>Hello hello hi</p></article>]]></description>
+            <link>https://thegrid.ai/components/7d8535a4-3d74-4330-9618-29f2c892a174/index.html</link>
+            <guid isPermaLink="false">7d8535a4-3d74-4330-9618-29f2c892a174</guid>
+            <pubDate>Fri, 20 Nov 2015 18:35:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Building SVG Icons with React]]></title>
             <description><![CDATA[<article><h1>Building SVG Icons with React</h1><p>While traditional graphics applications like Adobe Illustrator work well for certain tasks, they fall short when used to create pixel perfect, mathematically-derived graphics. Anyone who's attempted to create data visualizations with such software might have encountered these limitations.</p><img src="http://jxnblk.s3.amazonaws.com/assets/images/cog-sketch-bw.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/components/ebb71d88-ab14-42c7-89fb-216f673cfb5b/index.html</link>
             <guid isPermaLink="false">ebb71d88-ab14-42c7-89fb-216f673cfb5b</guid>
             <pubDate>Tue, 17 Nov 2015 17:31:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adding a Title]]></title>
-            <description><![CDATA[<article><h1>Adding a Title</h1><p>Adding a description. Content editable is aight</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e51b7ea-edea-46bc-ad0b-436b7481a926.png"></article>]]></description>
-            <link>https://thegrid.ai/components/f1f018cc-fcef-4f14-a07f-79f09abc3b70/index.html</link>
-            <guid isPermaLink="false">f1f018cc-fcef-4f14-a07f-79f09abc3b70</guid>
-            <pubDate>Thu, 19 Nov 2015 01:20:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
