@@ -1,7 +1,7 @@
 ---
 title: Hello contentEditable cover test post
-dateModified: '2015-11-20T18:45:17.292Z'
-datePublished: '2015-11-20T18:45:18.191Z'
+dateModified: '2015-11-20T20:15:05.950Z'
+datePublished: '2015-11-20T20:15:13.477Z'
 sourcePath: _posts/2015-11-14-delete-post-test.md
 published: true
 author: []
@@ -15,4 +15,8 @@ _type: MediaObject
 
 Adding a new description.
 
-Another paragraph.
+Add another description.
+
+# Put a Subtitle here
+
+# And a third title because I like screaming
