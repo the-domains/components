@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-24T11:22:59.160Z'
-dateModified: '2015-11-24T11:22:58.035Z'
+datePublished: '2015-11-24T11:25:14.228Z'
+dateModified: '2015-11-24T11:25:13.225Z'
 title: Color Palette Documentation for Living Style Guides
 author: []
 authors: []
