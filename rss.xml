@@ -4,15 +4,8 @@
         <description><![CDATA[Components]]></description>
         <link>https://thegrid.ai/components/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 17:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Dec 2015 21:49:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/components/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Cows chasing a RC car around a field]]></title>
-            <description><![CDATA[<article><h1>Cows chasing a RC car around a field</h1><img src="https://i.ytimg.com/vi/W_ROUREcM4I/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=W_ROUREcM4I</link>
-            <guid isPermaLink="false">779c7c58-4fb1-4daa-978e-39b3fab3ac9f</guid>
-            <pubDate>Wed, 25 Nov 2015 17:08:50 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Color Palette Documentation for Living Style Guides]]></title>
             <description><![CDATA[<article><h1>Color Palette Documentation for Living Style Guides</h1><p>Virtually every style guide has a color palette section in its documentation. Many times I’ve seen this documentation created manually, where every change to a color requires updating the values in two places – the stylesheet and the style guide. This often leads to one falling out of sync with the other, and makes maintaining a living style guide more difficult.</p></article>]]></description>
