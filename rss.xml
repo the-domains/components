@@ -4,15 +4,8 @@
         <description><![CDATA[Components]]></description>
         <link>https://thegrid.ai/components/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 21:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 16:14:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/components/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Color Palette Documentation for Living Style Guides]]></title>
-            <description><![CDATA[<article><h1>Color Palette Documentation for Living Style Guides</h1><p>Virtually every style guide has a color palette section in its documentation. Many times I’ve seen this documentation created manually, where every change to a color requires updating the values in two places – the stylesheet and the style guide. This often leads to one falling out of sync with the other, and makes maintaining a living style guide more difficult.</p></article>]]></description>
-            <link>https://thegrid.ai/components/color-palette-documentation-for-living-style-guides/index.html</link>
-            <guid isPermaLink="false">967e7316-c666-4e8c-90ce-d1d8a75859af</guid>
-            <pubDate>Tue, 24 Nov 2015 11:25:14 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Hello.]]></title>
             <description><![CDATA[<article><h1>Hello.</h1><p>Hello hello hi</p></article>]]></description>
@@ -22,14 +15,14 @@
         </item>
         <item>
             <title><![CDATA[Building SVG Icons with React]]></title>
-            <description><![CDATA[<article><h1>Building SVG Icons with React</h1><p>While traditional graphics applications like Adobe Illustrator work well for certain tasks, they fall short when used to create pixel perfect, mathematically-derived graphics. Anyone who's attempted to create data visualizations with such software might have encountered these limitations.</p><img src="http://jxnblk.s3.amazonaws.com/assets/images/cog-sketch-bw.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Building SVG Icons with React</h1><p>While traditional graphics applications like Adobe Illustrator work well for certain tasks, they fall short when used to create pixel perfect, mathematically-derived graphics. Anyone who's attempted to create data visualizations with such software might have encountered these limitations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0202126d14962326cc5b86d79cdad583eef4c36a.jpg"></article>]]></description>
             <link>http://jxnblk.com/react-icons/</link>
             <guid isPermaLink="false">c2531480-3dee-4483-afbe-b24a18b2a9ef</guid>
             <pubDate>Thu, 19 Nov 2015 01:10:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Cover Editor Title]]></title>
-            <description><![CDATA[<article><h1>New Cover Editor Title</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f61a6bd8-246c-4c16-8620-bddcb0a18dd7.png"></article>]]></description>
+            <description><![CDATA[<article><h1>New Cover Editor Title</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8213d93155a2da8141558a40b9e187282b30b8a2.png"></article>]]></description>
             <link>https://thegrid.ai/components/post-with-a-title/index.html</link>
             <guid isPermaLink="false">7f0a1f2c-07f8-4b54-94c9-decbdec73c7e</guid>
             <pubDate>Thu, 19 Nov 2015 15:06:03 GMT</pubDate>
